@@ -72,6 +72,9 @@ def tec_predict(input_data):
     result = prediction/1000
     return result
 
+'''Location
+dataset
+
     
 
 
