@@ -72,8 +72,6 @@ def tec_predict(input_data):
     result = prediction/1000
     return result
 
-'''Location
-dataset
 
     
 
@@ -114,6 +112,3 @@ if st.button('Predicted Result'):
 st.success(prediction)
 
 
-# 'Ne/cm-3', 'Ne/NF2', 'Tn/K', 'Ti/K', 'Te/K', 'O+', 'N+', 'H+', 'He+',
-#        'TEC', 't/%', 'ksp'
- 
